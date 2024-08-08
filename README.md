@@ -1,7 +1,5 @@
 
-## FAKE NEWS
 
-![App Screenshot](https://storage.googleapis.com/kaggle-datasets-images/2093157/3477477/14e58fb27c107a83225fa0b25a1a29f7/dataset-cover.jpg?t=2022-04-17-12-59-20)
 
 FAKE NEWS CLASSIFICATION MACHINE LEARNING MODEL
 
